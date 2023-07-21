@@ -11,6 +11,7 @@ License:	Perl (Artistic or GPL)
 Group:		Development/Perl
 BuildRequires:	perl-devel
 BuildRequires:	perl(ExtUtils::MakeMaker)
+BuildRequires:	perl(Test::More)
 
 %description
 Perl modules providing a cryptography based on LibTomCrypt library.
