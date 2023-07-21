@@ -10,6 +10,7 @@ Source:		https://cpan.metacpan.org/authors/id/M/MI/MIK/CryptX-%{version}.tar.gz
 License:	Perl (Artistic or GPL)
 Group:		Development/Perl
 BuildRequires:	perl
+BuildRequires:	perl(ExtUtils::MakeMaker)
 
 %description
 Perl modules providing a cryptography based on LibTomCrypt library.
