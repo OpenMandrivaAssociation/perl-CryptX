@@ -9,7 +9,7 @@ URL:		https://metacpan.org/pod/CryptX
 Source:		https://cpan.metacpan.org/authors/id/M/MI/MIK/CryptX-%{version}.tar.gz
 License:	Perl (Artistic or GPL)
 Group:		Development/Perl
-BuildRequires:	perl
+BuildRequires:	perl-devel
 BuildRequires:	perl(ExtUtils::MakeMaker)
 
 %description
