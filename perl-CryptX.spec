@@ -2,7 +2,7 @@
 %undefine _debugsource_packages
 
 Name:		perl-%{module}
-Version:	0.080
+Version:	0.081
 Release:	1
 Summary:	Perl modules providing a cryptography based on LibTomCrypt library
 URL:		https://metacpan.org/pod/CryptX
