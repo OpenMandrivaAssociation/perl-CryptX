@@ -3,7 +3,7 @@
 
 Name:		perl-%{module}
 Version:	0.081
-Release:	1
+Release:	2
 Summary:	Perl modules providing a cryptography based on LibTomCrypt library
 URL:		https://metacpan.org/pod/CryptX
 Source:		https://cpan.metacpan.org/authors/id/M/MI/MIK/CryptX-%{version}.tar.gz
